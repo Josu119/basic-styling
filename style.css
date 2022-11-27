@@ -1,0 +1,47 @@
+.h2 {
+    font-family: Georgia; 
+    color:#375e97 ;
+    font-size: 2em;
+    border-bottom: 5px dotted;
+}
+
+p  {
+
+    font-family: helvetica;
+}
+
+.title
+{
+    color :#999999;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.contact {
+font-style: italic;
+font-weight: bold;
+font-size: 1.5em;
+
+}
+
+
+.container {
+    background-color: #eeeeee;
+    border-color:purple;
+    border-style: solid;
+}
+
+.email :hover {
+    color:#82b8de;
+    background-color: #2b99e6 ;  
+    text-decoration: none;
+ 
+}
+
+.email :active {
+    color:#82b8de;
+}
+
+li :hover {
+    text-decoration: none;
+}
